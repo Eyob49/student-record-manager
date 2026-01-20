@@ -35,7 +35,7 @@ git clone https://github.com/Eyob49/student-record-manager
 cd student-record-manager
 Run the application:
 
-bash
+```bash
 Copy code
 python main.py
 Follow the menu prompts to manage student records.
