@@ -19,21 +19,19 @@ This project demonstrates basic **OOP, file persistence, and CRUD operations**�
 ## Project Structure
 
 student-record-manager/
-│
-├── main.py # CLI interface
-├── student.py # Student class (model)
-├── manager.py # StudentManager class (business logic)
-├── data.json # Sample data file
-└── README.md # Project description
+  - main.py # CLI interface
+  - student.py # Student class (model)
+  - manager.py # StudentManager class (business logic)
+  - data.json # Sample data file
+  - README.md # Project description
 
-bash
-Copy code
+- Copy code
 
 ## How to Run
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Eyob49/student-record-manager
 cd student-record-manager
 Run the application:
 
@@ -42,6 +40,6 @@ Copy code
 python main.py
 Follow the menu prompts to manage student records.
 
-data.json stores the student records.
-
-This project is designed for learning backend fundamentals and Python OOP.
+## Notes
+- `data.json` stores the student records.
+- This project is designed for learning backend fundamentals and Python OOP.
