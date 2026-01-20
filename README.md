@@ -41,5 +41,5 @@ python main.py
 Follow the menu prompts to manage student records.
 
 ## Notes
-- `data.json` stores the student records.
+- data.json stores the student records.
 - This project is designed for learning backend fundamentals and Python OOP.
