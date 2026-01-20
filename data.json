@@ -1,0 +1,30 @@
+[
+    {
+        "student_id": 1,
+        "name": "Dagim",
+        "department": "SE",
+        "year": 4,
+        "gpa": 3.4
+    },
+    {
+        "student_id": 1,
+        "name": "Eyob",
+        "department": "CS",
+        "year": 2018,
+        "gpa": 3.5
+    },
+    {
+        "student_id": 2,
+        "name": "Dawit",
+        "department": "ARC",
+        "year": 2018,
+        "gpa": 3.8
+    },
+    {
+        "student_id": 3,
+        "name": "Nahom",
+        "department": "MECH",
+        "year": 2019,
+        "gpa": 3.9
+    }
+]
